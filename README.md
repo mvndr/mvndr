@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://manvender.com/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The cite HTML Tag](https://blog.braydoncoyer.dev/the-cite-html-tag)
-- [Creating a Killer GitHub Profile README Part 1](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
-- [No Code: Build Games with GameSalad](https://blog.braydoncoyer.dev/no-code-build-games-with-gamesalad)
-- [The kbd HTML Tag](https://blog.braydoncoyer.dev/the-kbd-html-tag)
-- [Lighthouse and Integrating with Netlify](https://blog.braydoncoyer.dev/lighthouse-and-integrating-with-netlify)
+- [Custom-currency input-formatting](https://mvndr.medium.com/custom-currency-input-formatting-with-simple-directives-in-angular-33f1ac92c96a)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -116,9 +112,9 @@ Want to know more about me? [Check out my portfolio.](https://manvender.com/)
 
 ## 📣 How about an Office quote before you go?
 
-> I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
