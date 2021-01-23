@@ -18,6 +18,7 @@ Want to know more about me? [Check out my portfolio.](https://manvender.com/)
 <!-- BLOG-POST-LIST:START -->
 - [Custom-currency input-formatting](https://mvndr.medium.com/custom-currency-input-formatting-with-simple-directives-in-angular-33f1ac92c96a)
 <!-- BLOG-POST-LIST:END -->
+
 <br>
 
 ## 📌 Pinned Repositories
@@ -111,9 +112,9 @@ Want to know more about me? [Check out my portfolio.](https://manvender.com/)
 
 ## 📣 How about an Office quote before you go?
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Ryan Howard</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
