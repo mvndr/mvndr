@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://manvender.com/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The cite HTML Tag](https://blog.braydoncoyer.dev/the-cite-html-tag)
-- [Creating a Killer GitHub Profile README Part 1](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
-- [No Code: Build Games with GameSalad](https://blog.braydoncoyer.dev/no-code-build-games-with-gamesalad)
-- [The kbd HTML Tag](https://blog.braydoncoyer.dev/the-kbd-html-tag)
-- [Lighthouse and Integrating with Netlify](https://blog.braydoncoyer.dev/lighthouse-and-integrating-with-netlify)
+- [Custom-currency input-formatting](https://mvndr.medium.com/custom-currency-input-formatting-with-simple-directives-in-angular-33f1ac92c96a)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -116,9 +112,9 @@ Want to know more about me? [Check out my portfolio.](https://manvender.com/)
 
 ## 📣 How about an Office quote before you go?
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Creed Bratton</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
